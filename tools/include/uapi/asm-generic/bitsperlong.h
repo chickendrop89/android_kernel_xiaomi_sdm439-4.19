@@ -9,7 +9,7 @@
  * to decide it, but rather check a compiler provided macro.
  */
 #ifndef __BITS_PER_LONG
-#define __BITS_PER_LONG 32
+// #define __BITS_PER_LONG 32
 #endif
 
 #endif /* _UAPI__ASM_GENERIC_BITS_PER_LONG */
